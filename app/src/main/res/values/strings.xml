@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aaron Schmitz: Assignment #3</string>
+    <string name="colosseumText">Roman Colosseum</string>
+    <string name="roman_colosseum">roman colosseum</string>
+    <string name="parthenonText">Greek Parthenon</string>
+    <string name="parthenon">parthenon</string>
+    <string name="rushmoreText">Mount Rushmore</string>
+    <string name="president_mountain">president mountain</string>
+</resources>
